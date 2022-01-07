@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane prefHeight="420.0" prefWidth="512.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 70; -fx-border-color: BLACK; -fx-border-radius: 50; -fx-border-width: 7;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="282.0" fitWidth="285.0" layoutX="115.0" layoutY="74.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../artwork/result_fxml_page/ribbon.png" />
+         </image>
+      </ImageView>
+      <Text layoutX="154.0" layoutY="52.0" strokeType="OUTSIDE" strokeWidth="0.0" text="LEVEL COMPLETE" wrappingWidth="216.2265625">
+         <font>
+            <Font name="System Bold" size="25.0" />
+         </font>
+      </Text>
+      <ImageView fitHeight="135.0" fitWidth="135.0" layoutX="188.0" layoutY="76.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../artwork/result_fxml_page/stars.png" />
+         </image>
+      </ImageView>
+      <Text fx:id="txtFinalScore" layoutX="158.0" layoutY="331.0" strokeType="OUTSIDE" strokeWidth="0.0" text="YOUR SCORE: 80" wrappingWidth="216.2265625">
+         <font>
+            <Font name="System Bold" size="25.0" />
+         </font>
+      </Text>
+      <Text fx:id="txtCompletedLv" layoutX="192.0" layoutY="295.0" strokeType="OUTSIDE" strokeWidth="0.0" text="LEVEL ONE">
+         <font>
+            <Font name="System Bold" size="25.0" />
+         </font>
+      </Text>
+   </children>
+</Pane>

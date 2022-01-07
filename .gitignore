@@ -1,0 +1,9 @@
+# Binary Files
+bin/*
+
+# Visual Studio user specific files
+.vscode/
+/bin/
+.project
+/.classpath
+.classpath

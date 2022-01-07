@@ -1,0 +1,88 @@
+{
+    "dragons": [
+        {
+            "dragonType": "BABY_DRAGON_M",
+            "isMating": false,
+            "recentlyPregnant": 0,
+            "isBreedable": false,
+            "HP": 3,
+            "X": 1,
+            "Y": 5,
+            "growthProgress": 0,
+            "babiesToSpawn": 0,
+            "matingTime": 0,
+            "isPregnant": false,
+            "isSterile": false
+        },
+        {
+            "dragonType": "BABY_DRAGON_F",
+            "isMating": false,
+            "recentlyPregnant": 0,
+            "isBreedable": false,
+            "HP": 3,
+            "X": 1,
+            "Y": 10,
+            "growthProgress": 0,
+            "babiesToSpawn": 0,
+            "matingTime": 0,
+            "isPregnant": false,
+            "isSterile": false
+        },
+        {
+            "dragonType": "BABY_DRAGON_F",
+            "isMating": false,
+            "recentlyPregnant": 0,
+            "isBreedable": false,
+            "HP": 3,
+            "X": 19,
+            "Y": 1,
+            "growthProgress": 0,
+            "babiesToSpawn": 0,
+            "matingTime": 0,
+            "isPregnant": false,
+            "isSterile": false
+        },
+        {
+            "dragonType": "BABY_DRAGON_F",
+            "isMating": false,
+            "recentlyPregnant": 0,
+            "isBreedable": false,
+            "HP": 3,
+            "X": 20,
+            "Y": 5,
+            "growthProgress": 0,
+            "babiesToSpawn": 0,
+            "matingTime": 0,
+            "isPregnant": false,
+            "isSterile": false
+        },
+        {
+            "dragonType": "BABY_DRAGON_M",
+            "isMating": false,
+            "recentlyPregnant": 0,
+            "isBreedable": false,
+            "HP": 3,
+            "X": 20,
+            "Y": 9,
+            "growthProgress": 0,
+            "babiesToSpawn": 0,
+            "matingTime": 0,
+            "isPregnant": false,
+            "isSterile": false
+        },
+        {
+            "dragonType": "BABY_DRAGON_M",
+            "isMating": false,
+            "recentlyPregnant": 0,
+            "isBreedable": false,
+            "HP": 3,
+            "X": 8,
+            "Y": 7,
+            "growthProgress": 0,
+            "babiesToSpawn": 0,
+            "matingTime": 0,
+            "isPregnant": false,
+            "isSterile": false
+        }
+    ]
+}
